@@ -132,3 +132,5 @@ dmypy.json
 .pyre/
 google_private_key.json
 google_service_account_key_owner.json
+.DS_Store
+.idea
