@@ -7,4 +7,4 @@ if ! [ -d scripts ]; then
 else
 	echo "Scripts folder detected. Skipping download."
 fi
-
+echo "Setup successful."
